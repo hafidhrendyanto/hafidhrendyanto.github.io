@@ -21,3 +21,61 @@ body {
 a {
     color: #404040;
 }
+
+#opening {
+    margin-top: 1%;
+    margin-left: 1%;
+}
+
+#opening img {
+    width: 15%;
+    border-color: grey;
+    border-width: 10px;
+    border-style: solid;
+    margin-right: 1%;
+}
+
+#opening h1 {
+    font-family: monospace;
+    font-size: 4vw;
+    margin-bottom: 0vw;
+}
+
+#opening p {
+    margin-top: 0vw;
+    margin-bottom: 0.5vw;    
+    font-family: monospace;
+    font-size: 1.5vw;
+}
+
+#body {
+    margin-top: 1%;
+    margin-left: 1%;
+}
+
+#body h2 {
+    font-family: monospace;
+    font-size: 2.5vw;
+    margin-bottom: 0px;
+}
+
+#body h3 {
+    font-family: monospace;
+    font-size: 1.8vw;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+
+#body p {
+    font-family: monospace;
+    font-size: 1vw;
+    margin-bottom: 0px;
+}
+
+#body ul {
+    margin-left: -23px;
+    font-family: monospace;
+    font-size: 1vw;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
