@@ -1,0 +1,40 @@
+body {
+    background-color: white;
+    --img-size : 128px;
+    --font-size : 30px;
+}
+
+#footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #8c8c8c;
+    color: white;
+    text-align: center;
+}
+
+#footer p {
+    margin : 0px 0px 0px 0px;
+}
+
+a {
+    color: #404040;
+}
+
+#artc-title {
+    font-family: monospace;
+    text-align: center;
+}
+
+#artc-body {
+    font-family: monospace;
+    font-size: 14px;
+    text-align: justify;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+#artc-body img {
+    width: 50%;
+}
